@@ -14,13 +14,25 @@ Este repositorio contiene:
 - Código en hexadecimal (`TP_FINAL.hex`)
 - Programa de LabVIEW para el control manual via UART (`TP_FINAL_control_manual.vi`)
 - Programa de Proteus con simulación del circuito (`TP_FINAL_simulación.pdsprj`)
+- Video del circuito funcionando en modo manual (`Modo manual.mp4`)
+- Video del circuito funcionando en modo automático  (`Modo automático.mp4`)
 - Diagrama de bloques del funcionamiento
 - Documentación para instalar, compilar y usar el sistema
 
 ---
 
-## 🧩 Diagrama de Bloques simple
+## 🧩 Diagrama de Bloques Simple
 <img width="471" height="449" alt="image" src="https://github.com/user-attachments/assets/76736bcd-b568-4b37-966b-8f580782db4e" />
+
+---
+
+## 💡 Diagrama Esquemático
+<img width="835" height="413" alt="image" src="https://github.com/user-attachments/assets/bf546c05-5b5e-4a5b-a63b-2dc20c8f2ecb" />
+
+---
+
+## 📸 Fotografía del Circuito
+<img width="955" height="666" alt="image" src="https://github.com/user-attachments/assets/dc7348cd-cde0-4346-aca1-7056597df4ce" />
 
 ---
 
