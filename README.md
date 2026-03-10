@@ -102,7 +102,7 @@ Además se implementa **interrupción del ADC, interrupción de la comunicación
 - Forzar entrada a modo bootloader en el PIC
   Pulsá el botón Break/Reset Application Firmware y luego el botón Bootloader Mode
 - Abrir el archivo .hex y escribirlo
-  Open → seleccioná tu archivo hex. y luego pulsá el botón de programar/escribir (ícono flecha roja hacia abajo)
+  Open → seleccioná tu archivo .hex y luego pulsá el botón de programar/escribir (ícono flecha roja hacia abajo)
 - Pulsa Run Mode (botón verde) y listo
 
 ---
